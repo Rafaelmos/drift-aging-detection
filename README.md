@@ -9,7 +9,7 @@ If you use this code in your research, please cite the following paper:
 ```bibtex
 @inproceedings{silva2025adaptive,
   title={Adaptive Detection of Software Aging under Workload Shift},
-  author={Silva, Rafael Jos{\'e} Moura and Nascimento, Maria Gizele and Machida, Fumio and Andrade, Ermeson},
+  author={Moura, Rafael Jos{\'e} and Nascimento, Maria Gizele and Machida, Fumio and Andrade, Ermeson},
   booktitle={Simp{\'o}sio em Sistemas Computacionais de Alto Desempenho (SSCAD)},
   pages={242--253},
   year={2025},
